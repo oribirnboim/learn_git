@@ -1,1 +1,1 @@
-this file is to learn git
+this repository is to learn git
